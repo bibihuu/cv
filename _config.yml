@@ -12,7 +12,7 @@ title                    : "bibihoo"
 title_separator          : "-"
 name                     : &name "Bin Hu"
 description              : &description "personal description"
-url                      : https://bibihuu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://bibihuu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Bin Hu"
   pronouns         : # example: "she/her"  
   bio              : "Experimental / Synchrotron Geoscience"
   location         : "Australia"
