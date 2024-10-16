@@ -55,7 +55,6 @@ redirect_from:
 * **Bachelor of Engineering**
 * Major: Resource Prospecting Engineering (National Science Base-class)
 
-<br>
 <hr />
 
 # Academic Experiences
@@ -85,8 +84,6 @@ redirect_from:
 * Numerical Simulation of hydrothermal deposits brings insights into the metallogenic dynamics and hydrothermal evolution. (Work with Assoc. Prof. Alexander P. Gysi in New Mexico Tech. (In preparation)
 * Geochemical characteristics of magnetites in igneous systems, by using machine learning techniques: principal component analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE), linear discriminant analysis (LDA), support vector machine (SVM), and receiver operating characteristic (ROC). (In preparation)
 * Participated in assembling, developing, and running the Optical Cathodoluminescence (OP-CL) Lab in State Key Laboratory, CUG.
-
-<br>
 
 <hr />
 
