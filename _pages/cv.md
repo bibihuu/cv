@@ -55,9 +55,8 @@ redirect_from:
 * **Bachelor of Engineering**
 * Major: Resource Prospecting Engineering (National Science Base-class)
 
-<be>
-
-***********
+<br>
+<hr />
 
 # Academic Experiences
 
@@ -89,7 +88,7 @@ redirect_from:
 
 <br>
 
-***********
+<hr />
 
 # Service and leadership
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
