@@ -64,27 +64,39 @@ Academic Experiences
     <span><strong>University of Naples Federico II, Neaples, Italy</strong></span>
     <span><strong>2017.07 - 2017.08</strong></span>
 </div>
+* Summer Course / Visiting Student
+* Subject: Nature Resources Exploration, Environment and Health.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>University of Naples Federico II, Neaples, Italy</strong></span>
+    <span><strong>2019.07 - 2019.08</strong></span>
+</div>
+* Visiting / Fieldwork
+* Research Project: Visit and co-work with Geochemistry Engineer in LKAB; Study the geological characteristics of Kiruna deposit underground and visit the drill core store; Fieldwork and collect samples from IOA deposits in the Kiruna and surrounding district.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>Academic Experiences</strong></span>
+    <span><strong>2016.06 - Present</strong></span>
+</div>
+* Awarded Student Bursary of the 30th International Applied Geochemistry Symposium (IAGS). 2024.10
+* Co-developing the famewoks XAS data processing code for ESRF-BM16 (with Dr. Mauro Rovezzi, Centre National de la Recherche Scientifique [CNRS])
+* Modified the setup of the flow-through reaction rig by adding an auto-adjusted pressure control system with capillary silicone oil pumps and customised coded controllers.
+* Exploring the role of CO2 in the gold mineralisation process: An insight from the thermodynamic point of view. (Under coding and investigation, in preparation)
+* Numerical Simulation of hydrothermal deposits brings insights into the metallogenic dynamics and hydrothermal evolution. (Work with Assoc. Prof. Alexander P. Gysi in New Mexico Tech. (In preparation)
+* Geochemical characteristics of magnetites in igneous systems, by using machine learning techniques: principal component analysis (PCA), t-distributed stochastic neighbor embedding (t-SNE), linear discriminant analysis (LDA), support vector machine (SVM), and receiver operating characteristic (ROC). (In preparation)
+* Participated in assembling, developing, and running the Optical Cathodoluminescence (OP-CL) Lab in State Key Laboratory, CUG.
 
+<br>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>Society of Economic Geologists (SEG) Student Chapter, Monash, Australia</strong></span>
+    <span><strong>2022.02 - 2023.02</strong></span>
+</div>
+**Treasurer**
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>Society of Economic Geologists (SEG) Student Chapter, CUG, China</strong></span>
+    <span><strong>2016.12 - 2020.10</strong></span>
+</div>
+**Consultant Initiator / President**
