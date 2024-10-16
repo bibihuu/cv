@@ -12,11 +12,21 @@ redirect_from:
 Education
 ======
 <div style="display: flex; justify-content: space-between;">
-    <span>Monash Uni</span>
-    <span>2022-2025</span>
+    <span><strong>Monash Uni</strong></span>
+    <span><strong>2022-2025(expect)</strong></span>
 </div>
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD Candidate**
+* Supervisor
+  * Main Supervisor:	Prof. Joël Brugger (Monash University, <a href="https://scholar.google.com/citations?user=LWXkkmwAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
+  * 2nd Supervisor:	  Prof. Andrew S. Tomkins (Monash University, <a href="https://scholar.google.com.au/citations?user=QrVKsXsAAAAJ&hl=en">Google Scholar Link</a>)
+  * 3rd Supervisor:	  Dr. Yuan Mei (CSIRO, <a href="[https://scholar.google.com](https://scholar.google.com/citations?user=QZ-_2l4AAAAJ&hl=en&oi=sra)">Google Scholar Link</a>)
+* Research Project
+  * Magmatic-hydrothermal mineral deposit system
+  * High-temperature and high-pressure mineral experiments.
+  * XAS (including HERFD [High-Energy-Resolution Fluorescence Detection]) analysis.
+  * In-situ XAS setup development
+  * Thermodynamic simulations and calculations
+
 
 Work experience
 ======
