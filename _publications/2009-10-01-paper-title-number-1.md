@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "The Origin and Discrimination of High-Ti Magnetite in Magmatic-Hydrothermal Systems: Insight from Machine Learning Analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'High-titanium (high-Ti, more than 1 wt \% Ti) magnetite, commonly containing ilmenite exsolution, has long been attributed to an igneous origin and has been used as the most critical factor in previously developed discriminant diagrams. However, recent studies have shown that high-Ti magnetite can be present in high-temperature hydrothermal deposits, suggesting a probable hydrothermal origin. This also calls for reconsideration and necessary modification of the currently available discriminant diagrams. This high-Ti magnetite issue is particularly acute in iron oxide-apatite (IOA) deposits and raises controversy in the discussion of the origin of the high-Ti magnetite.With statistical analysis and machine learning techniques, this study applies two unsupervised dimensionality reduction methods—principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE)—on a compiled data set consisting of 876 laser ablation-inductively coupled plasma-mass spectrometry analyses of primary high-Ti magnetite from high-temperature ore-forming systems worldwide. Three models are built with different element combinations to identify magnetite of different origins. The models were further evaluated by the support vectors machine (SVM) and receiver operating characteristic (ROC) curves and proved to be able to describe the characteristics of trace element compositions of high-Ti magnetite of different origins. Our models suggest that Mg, Mn, Al, Ti, V, and Co from 59 analyzed trace elements show promising properties as effective discriminators, and on this basis, a new discrimination diagram of lg(Al) + lg(Ti) + lg(V) versus lg(Mn)/[lg(Co) + lg(Mg)] is developed for distinguishing high-Ti magnetite of igneous and hydrothermal origin. Our results also show that the high-Ti magnetite in the IOA deposits has chemical compositions similar to those of high-temperature hydrothermal deposits, including the iron oxide copper-gold and porphyry deposits, but significantly distinct from the igneous magnetite. Our study, hence, implies a magmatic-hydrothermal origin for the magnetite in IOA deposits.'
+date: 2022
+venue: 'Economic Geology'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
