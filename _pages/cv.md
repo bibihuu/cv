@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<div style="display: flex; justify-content: space-between; font-size: 1em;">
+<div style="display: flex; justify-content: space-between; font-size: 2em;">
     <span><strong>Monash Uni</strong></span>
     <span><strong>2022-2025 (expect)</strong></span>
 </div>
