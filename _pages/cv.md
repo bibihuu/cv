@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>Monash University, Melbourne, Australia</strong></span>
     <span><strong>2022 - 2025 (expect)</strong></span>
@@ -60,8 +59,8 @@ Education
 
 ***********
 
-Academic Experiences
-======
+# Academic Experiences
+
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>University of Naples Federico II, Neaples, Italy</strong></span>
     <span><strong>2017.07 - 2017.08</strong></span>
@@ -92,8 +91,7 @@ Academic Experiences
 
 ***********
 
-Service and leadership
-======
+# Service and leadership
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>Society of Economic Geologists (SEG) Student Chapter, Monash, Australia</strong></span>
     <span><strong>2022.02 - 2023.02</strong></span>
