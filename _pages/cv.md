@@ -94,9 +94,9 @@ Service and leadership
     <span><strong>Society of Economic Geologists (SEG) Student Chapter, Monash, Australia</strong></span>
     <span><strong>2022.02 - 2023.02</strong></span>
 </div>
-**Treasurer**
+* Treasurer
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>Society of Economic Geologists (SEG) Student Chapter, CUG, China</strong></span>
     <span><strong>2016.12 - 2020.10</strong></span>
 </div>
-**Consultant Initiator / President**
+* Consultant Initiator / President
