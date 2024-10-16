@@ -11,10 +11,7 @@ redirect_from:
 
 Education
 ======
-<div style="display: flex; justify-content: space-between;">
-    <span><strong>Monash Uni</strong></span>
-    <span><strong>2022-2025(expect)</strong></span>
-</div>
+**Monash University**                                                        **2022-2025 (expect)**
 * **PhD Candidate**
 * Supervisor
   * Main Supervisor:	Prof. Joël Brugger (Monash University, <a href="https://scholar.google.com/citations?user=LWXkkmwAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
