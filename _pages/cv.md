@@ -15,7 +15,7 @@ Education
     <span><strong>Monash University, Melbourne, Australia</strong></span>
     <span><strong>2022 - 2025 (expect)</strong></span>
 </div>
-* **PhD Candidate**
+**PhD Candidate**
 * Supervisor
   * Main Supervisor:	Prof. Joël Brugger (Monash University, <a href="https://scholar.google.com/citations?user=LWXkkmwAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
   * 2nd Supervisor:	  Prof. Andrew S. Tomkins (Monash University, <a href="https://scholar.google.com.au/citations?user=QrVKsXsAAAAJ&hl=en">Google Scholar Link</a>)
@@ -31,7 +31,7 @@ Education
     <span><strong>Colorado School of Mines, Colorado, USA</strong></span>
     <span><strong>2019 - 2020</strong></span>
 </div>
-* **Visiting Student**
+**Visiting Student**
 * Supervisor
   * Associate Prof. Alexander P. Gysi (New Mexico Tech, <a href="https://scholar.google.com/citations?user=mlnv8CIAAAAJ&hl=en">Google Scholar Link</a>)
 * Research Project
@@ -41,7 +41,7 @@ Education
     <span><strong>China University of Geosciences (CUG), Wuhan, China</strong></span>
     <span><strong>2018 - 2021</strong></span>
 </div>
-* **Master of Science**
+**Master of Science**
 * Supervisor
   * Prof. Xinfu Zhao (China University of Geoscience, <a href="https://scholar.google.com/citations?user=RfXyjIAAAAAJ&hl=en&oi=ao">Google Scholar Link</a>)
 * Research Project
@@ -53,15 +53,17 @@ Education
     <span><strong>China University of Geosciences (CUG), Wuhan, China</strong></span>
     <span><strong>2014 - 2018</strong></span>
 </div>
-* **Bachelor of Engineering**
+**Bachelor of Engineering**
 * Major: Resource Prospecting Engineering (National Science Base-class)
-  
-Work experience
+
+<br>
+
+Academic Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>University of Naples Federico II, Neaples, Italy</strong></span>
+    <span><strong>2017.07 - 2017.08</strong></span>
+</div>
 
 * Fall 2015: Research Assistant
   * Github University
