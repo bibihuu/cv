@@ -1,6 +1,7 @@
 ---
 title: "Origin of high-Ti magnetite in magmatic-hydrothermal systems: evidence from iron oxide-apatite (IOA) deposits of Eastern China"
 collection: publications
+status: published
 category: manuscripts
 permalink: /publication/2022-06-01-BinH_ML_HighTiMag
 excerpt: 'High-Ti magnetite can precipitate from high-temperature hydrosaline liquids.'
