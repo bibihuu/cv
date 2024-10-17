@@ -4,7 +4,6 @@ collection: publications
 status: submit
 category: manuscripts
 permalink: /publication/2024-11-01-BinH_poorCO2Gold
-excerpt: 'Investigate the potention of forming gold deposits under poor-CO2 environment.'
 venue: 'Nature Communications Earth & Environment'
 date: 2024-11-01
 ---
