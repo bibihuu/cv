@@ -4,7 +4,9 @@ collection: publications
 status: published
 category: manuscripts
 permalink: /publication/2022-11-01-BinH_ML_HighTiMag
+link: 'https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/117/7/1613/616328/The-Origin-and-Discrimination-of-High-Ti-Magnetite?redirectedFrom=fulltext'
 venue: 'Economic Geology'
+excerpt: ""
 citation: 'Bin Hu, Li-Ping Zeng, Wang Liao, Guang Wen, Hao Hu, Martin Yan Hei Li, Xin-Fu Zhao; The Origin and Discrimination of High-Ti Magnetite in Magmatic-Hydrothermal Systems: Insight from Machine Learning Analysis. Economic Geology 2022; 117 (7): 1613–1627. doi: https://doi.org/10.5382/econgeo.4946'
 date: 2022-11-01
 ---
