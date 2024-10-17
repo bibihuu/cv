@@ -1,6 +1,7 @@
 ---
 title: "Giant mesozonal lode gold deposits form from CO2-poor meteoric water in long-lived fault systems"
-collection: submit
+collection: publications
+status: submit
 category: manuscripts
 permalink: /publication/2024-11-01-BinH_poorCO2Gold
 excerpt: 'Investigate the potention of forming gold deposits under poor-CO2 environment.'
