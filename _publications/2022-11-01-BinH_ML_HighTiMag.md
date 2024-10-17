@@ -1,6 +1,7 @@
 ---
 title: "The Origin and Discrimination of High-Ti Magnetite in Magmatic-Hydrothermal Systems: Insight from Machine Learning Analysis"
 collection: publications
+status: published
 category: manuscripts
 permalink: /publication/2022-11-01-BinH_ML_HighTiMag
 excerpt: 'Using Machine Learning Methods to study trace elements behaviours in High-Ti magnetite'
