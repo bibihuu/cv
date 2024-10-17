@@ -4,7 +4,6 @@ collection: publications
 status: published
 category: manuscripts
 permalink: /publication/2024-06-01-BinH_Petro
-excerpt: 'Using Machine Learning Methods to study trace elements behaviours in High-Ti magnetite'
 venue: 'Marine and Petroleum Geology'
 citation: 'Changgui Xu, Qingbin Wang, Hongtao Zhu, Xiaojian Liu, Chong Feng, Bin Hu, Huan Li, Yiwei Hao, Xiaoyan Jin, Ye Jia,Hydrothermal alteration mechanisms of an Archaean metamorphic buried hill and the models for reservoir zonation, Bozhong depression, Bohai Bay Basin, China. Marine and Petroleum Geology 2024; 164. doi: https://doi.org/10.1016/j.marpetgeo.2024.106843'
 date: 2024-06-01
