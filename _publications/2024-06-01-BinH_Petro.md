@@ -1,6 +1,7 @@
 ---
 title: "Hydrothermal alteration mechanisms of an Archaean metamorphic buried hill and the models for reservoir zonation, Bozhong depression, Bohai Bay Basin, China"
 collection: publications
+status: published
 category: manuscripts
 permalink: /publication/2024-06-01-BinH_Petro
 excerpt: 'Using Machine Learning Methods to study trace elements behaviours in High-Ti magnetite'
