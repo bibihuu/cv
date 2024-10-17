@@ -3,6 +3,7 @@ title: "Giant mesozonal lode gold deposits form from CO2-poor meteoric water in 
 collection: publications
 status: submit
 category: manuscripts
+excerpt: ""
 permalink: /publication/2024-11-01-BinH_poorCO2Gold
 venue: 'Nature Communications Earth & Environment'
 date: 2024-11-01
