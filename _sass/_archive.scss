@@ -88,6 +88,8 @@
 /*
    List view
    ========================================================================== */
+$right-sidebar-width-narrow: 200px;
+$right-sidebar-width-wide: 300px;
 
 .list__item {
   @include breakpoint($medium) {
