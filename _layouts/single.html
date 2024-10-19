@@ -51,7 +51,11 @@ layout: default
         {% endif %}    
         </header>
       {% endunless %}
-
+      
+      {% if post.authors%}
+        <p>{{post.authors}}</p>
+      {% endif %}
+      
       <section class="page__content" itemprop="text" style="text-align: justify;">
         {{ content }}
 
