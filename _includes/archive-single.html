@@ -44,9 +44,11 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     
-    {% if post.authors%}
+    
       <div style="white-space: pre-line;">
-      {{post.authors}}
+        {% if post.authors%}
+        {{post.authors}}
+        {% endif %}
         {% if post.status == 'published' %}
           Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% elsif post.status == 'submitted' %}
@@ -57,7 +59,7 @@
           In preparation, aiming for <i>{{ post.venue }}</i>
         {% endif %}
       </div>
-    {% endif %}
+    
     
     
     {% if post.excerpt and site.read_more != 'enabled' %}
