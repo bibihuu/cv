@@ -4,7 +4,7 @@ collection: publications
 status: published
 category: manuscripts
 link: 'https://www.sciencedirect.com/science/article/pii/S0264817224001557?via%3Dihub'
-permalink: /publication/2024-06-01-BinH_Petro
+permalink: /publication/2024-06-01-MPG_PetroCl
 excerpt: ""
 venue: 'Marine and Petroleum Geology'
 authors: "Changgui Xu, Qingbin Wang, Hongtao Zhu, Xiaojian Liu, Chong Feng, <strong>Bin Hu</strong>, Huan Li, Yiwei Hao, Xiaoyan Jin, Ye Jia"
