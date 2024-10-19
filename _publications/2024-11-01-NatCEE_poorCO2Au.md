@@ -1,5 +1,5 @@
 ---
-title: "Giant mesozonal lode gold deposits form from CO2-poor meteoric water in long-lived fault systems"
+title: "Giant mesozonal lode gold deposits form from CO<sub>2</sub>-poor meteoric water in long-lived fault systems"
 collection: publications
 status: submitted
 category: manuscripts
