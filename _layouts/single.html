@@ -41,7 +41,7 @@ layout: default
             <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.status == 'submitted' %}
             <p>Submitted to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%b %Y" }} </p>
-          {% elsif post.status == 'revised' %}
+          {% elsif page.status == 'revised' %}
             <p>Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.status == 'prep' %}
             <p>In preparation, aiming for <i>{{ page.venue }}</i></p>
