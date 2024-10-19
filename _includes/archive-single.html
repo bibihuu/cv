@@ -45,16 +45,17 @@
     {% endif %}
     
     {% if post.authors%}
-      <p>{{post.authors}}</p>
+      <p>{{post.authors}}
         {% if post.status == 'published' %}
-          <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </br>
+          <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% elsif post.status == 'submitted' %}
-          <br>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </br>
+          <br>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% elsif post.status == 'revised' %}
-          <br>Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </br>
+          <br>Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         {% elsif post.status == 'prep' %}
-          <br>In preparation, aiming for <i>{{ post.venue }}</i></br>
+          <br>In preparation, aiming for <i>{{ post.venue }}</i>
         {% endif %}
+      </p>
     {% endif %}
     
     
