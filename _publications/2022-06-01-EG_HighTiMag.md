@@ -4,7 +4,7 @@ collection: publications
 status: published
 category: manuscripts
 link: 'https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/117/7/1613/616328/The-Origin-and-Discrimination-of-High-Ti-Magnetite'
-permalink: /publication/2022-06-01-BinH_ML_HighTiMag
+permalink: /publication/2022-06-01-EG_HighTiMag
 venue: 'Economic Geology'
 excerpt: ""
 authors: 'Li-Ping Zeng, Xin-Fu Zhao, Carl Spandler, Hao Hu, **Bin Hu**, Jian-Wei Li, Yi Hu'
