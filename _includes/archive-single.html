@@ -47,7 +47,7 @@
     
       <div style="white-space: pre-line;">
         {% if post.authors%}
-        {{post.authors}}
+        {{post.authors}}<br>
         {% endif %}
         {% if post.status == 'published' %}
           Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
