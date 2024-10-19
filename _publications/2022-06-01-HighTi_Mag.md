@@ -7,6 +7,7 @@ link: 'https://pubs.geoscienceworld.org/segweb/economicgeology/article-abstract/
 permalink: /publication/2022-06-01-BinH_ML_HighTiMag
 venue: 'Economic Geology'
 excerpt: ""
+authors: 'Li-Ping Zeng, Xin-Fu Zhao, Carl Spandler, Hao Hu, **Bin Hu**, Jian-Wei Li, Yi Hu'
 citation: 'Li-Ping Zeng, Xin-Fu Zhao, Carl Spandler, Hao Hu, Bin Hu, Jian-Wei Li, Yi Hu; ORIGIN OF HIGH-Ti MAGNETITE IN MAGMATIC-HYDROTHERMAL SYSTEMS: EVIDENCE FROM IRON OXIDE-APATITE (IOA) DEPOSITS OF EASTERN CHINA. Economic Geology 2022; 117 (4): 923–942. doi: https://doi.org/10.5382/econgeo.4901'
 date: 2022-06-01
 ---
