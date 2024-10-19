@@ -45,17 +45,18 @@
     {% endif %}
     
     {% if post.authors%}
-      <p>{{post.authors}}
+      <div style="white-space: pre-line;">
+      {{post.authors}}
         {% if post.status == 'published' %}
-          <br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% elsif post.status == 'submitted' %}
-          <br>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% elsif post.status == 'revised' %}
-          <br>Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
+          Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         {% elsif post.status == 'prep' %}
-          <br>In preparation, aiming for <i>{{ post.venue }}</i>
+          In preparation, aiming for <i>{{ post.venue }}</i>
         {% endif %}
-      </p>
+      </div>
     {% endif %}
     
     
