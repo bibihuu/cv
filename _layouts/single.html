@@ -40,7 +40,7 @@ layout: default
           {% if page.status == 'published' %}
             <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.status == 'submit' %}
-            <p>Submitted to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y-%b" }} </p>
+            <p>Submitted to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%b, %Y" }} </p>
           {% elsif page.status == 'prep' %}
             <p>In preparation, aiming for <i>{{ page.venue }}</i></p>
           {% endif %}
