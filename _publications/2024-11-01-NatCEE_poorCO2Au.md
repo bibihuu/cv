@@ -4,7 +4,8 @@ collection: publications
 status: submit
 category: manuscripts
 excerpt: ""
-permalink: /publication/2024-11-01-BinH_poorCO2Gold
+permalink: /publication/2024-11-01-NatCEE_poorCO2Au
+authors: "Wei Li, Gui-Qing Xie, Bin Fu, Joël Brugger, Andrew G. Tomkins, Jing-Wen Mao, <strong>Bin Hu</strong>, Christopher R. Voisey"
 venue: 'Nature Communications Earth & Environment'
 date: 2024-11-01
 ---
