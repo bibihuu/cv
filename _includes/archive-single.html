@@ -27,6 +27,8 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline" style="text-align: justify;">
+      {% if post.status == 'mutebreadcrumbs' %}
+        {{ title }}
       {% if post.status == 'prep' %}
         {{ title }}
       {% elsif post.status == 'submitted' %}
