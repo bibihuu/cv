@@ -259,6 +259,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _doughs
+  - scope:
+      path: ""
+      type: dough
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
