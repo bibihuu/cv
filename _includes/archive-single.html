@@ -29,6 +29,8 @@
     <h2 class="archive__item-title" itemprop="headline" style="text-align: justify;">
       {% if post.status == 'mute_dough' %}
         {{ title }}
+      {% elsif post.status == 'dough' %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% elsif post.status == 'prep' %}
         {{ title }}
       {% elsif post.status == 'submitted' %}

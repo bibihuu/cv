@@ -1,7 +1,7 @@
 ---
 title: "Automated Pressure Gauge Detection and Reading Using YOLO"
 collection: dough
-status: 'mute_dough'
+status: 'dough'
 category: code
 permalink: /dough/2024-02-01-YOLOGauge
 date: 2024-02-01
