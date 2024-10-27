@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.dough_category %}
-  {% for category in site.dough_category  %}
+{% if site.doughs_category %}
+  {% for category in site.doughs_category  %}
     {% assign title_shown = false %}
     {% for post in site.dough reversed %}
       {% if post.category != category[0] %}

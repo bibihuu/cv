@@ -1,0 +1,10 @@
+---
+title: "Thermodynamic Modeling Using Gibbs Library for Phase Stability Analysis"
+collection: dough
+status: 'mute_dough'
+category: code
+permalink: /dough/2024-01-02-dlltaco
+date: 2024-01-02
+---
+
+Provides calculations of thermodynamic properties for aqueous hydrothermal systems across varying temperatures, pressures, compositions, and fugacities, using the GibbsLib for phase stability analysis.
