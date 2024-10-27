@@ -81,6 +81,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+
+doughs_category:
   code:
     title: 'Code Development'
 
