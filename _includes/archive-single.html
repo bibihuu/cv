@@ -54,15 +54,15 @@
         {{post.authors}}<br>
         {% endif %}
         {% if post.status == 'published' %}
-          Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <font color="#636363">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
         {% elsif post.status == 'submitted' %}
-          Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <font color="#636363">Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
         {% elsif post.status == 'revised' %}
-          Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
+          <font color="#636363">Revised version back to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
         {% elsif post.status == 'accepted' %}
-          Accepted by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
+          <font color="#636363">Accepted by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
         {% elsif post.status == 'prep' %}
-          In preparation, aiming for <i>{{ post.venue }}</i>
+          <font color="#636363">In preparation, aiming for <i>{{ post.venue }}</i></font>
         {% endif %}
       </div>
     
