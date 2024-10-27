@@ -1,5 +1,5 @@
 ---
-title: "Automated FDMNES Structures Validation"
+title: "FDMNES Structures Validation"
 collection: dough
 status: 'mute_dough'
 category: code
