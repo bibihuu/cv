@@ -65,6 +65,11 @@
           <font color="#87888a", size=3>Accepted by <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</font>
         {% elsif post.status == 'prep' %}
           <font color="#87888a", size=3>In preparation, aiming for <i>{{ post.venue }}</i></font>
+        {% elsif post.status == 'mute_dough' %}
+          {% if post.category == 'synproposal'%}
+            <font color="#87888a", size=3> {{ post.beamloc }} | {{ post.method }}</font>
+          {% elsif post.category == code %}
+            <font color="#87888a", size=3> {{ content }}</font>
         {% endif %}
       </div>
     
