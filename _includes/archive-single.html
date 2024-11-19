@@ -30,7 +30,7 @@
       {% if post.status == 'mute_dough' %}
         {{ title }}
       {% elsif post.status == 'dough' %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" size=3>{{ title }}</a>
       {% elsif post.status == 'prep' %}
         {{ title }}
       {% elsif post.status == 'submitted' %}
@@ -69,7 +69,7 @@
           {% if post.category == 'synproposal'%}
             <font color="#87888a", size=3> {{ post.beamloc }} | {{ post.method }}</font>
           {% elsif post.category == code %}
-            <font color="#87888a", size=3> {{ content }}</font>
+            <font color="#87888a", size=3> {{ post.detail }}</font>
           {% endif %}
         {% endif %}
       </div>
