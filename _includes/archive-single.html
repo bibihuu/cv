@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline" style="text-align: justify;">
+    <h3 class="archive__item-title" itemprop="headline" style="text-align: justify;">
       {% if post.status == 'mute_dough' %}
         {{ title }}
       {% elsif post.status == 'dough' %}
@@ -44,7 +44,7 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h3>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
