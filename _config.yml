@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Bin Hu"
   pronouns         : # example: "she/her"  
-  bio              : "(<em>in-situ</em>) Synchrotron Geoscience<br>High P/T Experimental Geoscience<br>Geochemistry Thermodynamic Simulation<br>Mineralogy Enriching / Forming System"
+  bio              : "* (<em>in-situ</em>) Synchrotron geoscience<br>* High P/T experiments<br>* Thermodynamic simulation<br>* Mineralogy enriching / forming systems"
   location         : "Melbourne, Australia"
   employer         : "Monash University"
   uri              : # URL
@@ -40,7 +40,7 @@ author:
   researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # Username - Update with your username on the sitee
   codepen          : # Username
   dribbble         : # Username
   github           : #"academicpages"
