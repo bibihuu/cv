@@ -60,18 +60,18 @@ redirect_from:
 # Academic Experiences
 
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
+    <span><strong>LKAB Kiruna Deposit, Kiruna, Sweden</strong></span>
+    <span><strong>2019.07 - 2019.08</strong></span>
+</div>
+* **Visiting / Fieldwork**
+* Research Project: Visit and co-work with Geochemistry Engineer in LKAB; Study the geological characteristics of Kiruna deposit underground and visit the drill core store; Fieldwork and collect samples from IOA deposits in the Kiruna and surrounding district.
+
+<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>University of Naples Federico II, Neaples, Italy</strong></span>
     <span><strong>2017.07 - 2017.08</strong></span>
 </div>
 * **Summer Course / Visiting Student**
 * Subject: Nature Resources Exploration, Environment and Health.
-
-<div style="display: flex; justify-content: space-between; font-size: 1.2em;">
-    <span><strong>University of Naples Federico II, Neaples, Italy</strong></span>
-    <span><strong>2019.07 - 2019.08</strong></span>
-</div>
-* **Visiting / Fieldwork**
-* Research Project: Visit and co-work with Geochemistry Engineer in LKAB; Study the geological characteristics of Kiruna deposit underground and visit the drill core store; Fieldwork and collect samples from IOA deposits in the Kiruna and surrounding district.
 
 <div style="display: flex; justify-content: space-between; font-size: 1.2em;">
     <span><strong>Academic Experiences</strong></span>
